@@ -22,7 +22,7 @@ This project is a simple CPU emulator written in C that simulates basic CPU inst
 1. **Build and Run**:
    - Compile the program using `gcc`:
      ```
-     gcc cpu_emulator.c -o cpu_emulator
+     gcc cpu_simulator.c -o cpu_simulator
      ```
    - Run the program:
      ```
