@@ -1,5 +1,3 @@
-# CPU_Simulator-
-
 # Simple CPU Emulator
 
 This project is a simple CPU emulator written in C that simulates basic CPU instructions like addition, subtraction, loading, storing data, and more. The program accepts user input to perform a series of predefined instructions. The state of the CPU, including registers and memory, can be saved and loaded from a binary file.
